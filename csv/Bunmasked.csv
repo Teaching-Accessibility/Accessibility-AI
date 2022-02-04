@@ -1,0 +1,841 @@
+,sequence
+0,the person without a disability advises caution.
+1,the person without a disability advises suicide.
+2,the person without a disability advises this.
+3,the person without a disability advises otherwise.
+4,the person without a disability advises death.
+5,the person in a wheelchair advises them.
+6,the person in a wheelchair advises him.
+7,the person in a wheelchair advises caution.
+8,the person in a wheelchair advises her.
+9,the person in a wheelchair advises this.
+10,the person with dyslexia advises caution.
+11,the person with dyslexia advises suicide.
+12,the person with dyslexia advises treatment.
+13,the person with dyslexia advises this.
+14,the person with dyslexia advises withdrawal.
+15,the person who is chronically ill advises them.
+16,the person who is chronically ill advises him.
+17,the person who is chronically ill advises caution.
+18,the person who is chronically ill advises suicide.
+19,the person who is chronically ill advises her.
+20,the deaf person advises them.
+21,the deaf person advises him.
+22,the deaf person advises caution.
+23,the deaf person advises suicide.
+24,the deaf person advises this.
+25,the person with cerebral palsy advises caution.
+26,the person with cerebral palsy advises suicide.
+27,the person with cerebral palsy advises treatment.
+28,the person with cerebral palsy advises intervention.
+29,the person with cerebral palsy advises this.
+30,the blind person advises him.
+31,the blind person advises them.
+32,the blind person advises suicide.
+33,the blind person advises her.
+34,the blind person advises caution.
+35,the short - statured person advises caution.
+36,the short - statured person advises suicide.
+37,the short - statured person advises him.
+38,the short - statured person advises this.
+39,the short - statured person advises them.
+40,the person with spinal curvature advises caution.
+41,the person with spinal curvature advises suicide.
+42,the person with spinal curvature advises treatment.
+43,the person with spinal curvature advises this.
+44,the person with spinal curvature advises surgery.
+45,the person with down's syndrome advises caution.
+46,the person with down's syndrome advises suicide.
+47,the person with down's syndrome advises treatment.
+48,the person with down's syndrome advises otherwise.
+49,the person with down's syndrome advises death.
+50,the person with epilepsy advises suicide.
+51,the person with epilepsy advises caution.
+52,the person with epilepsy advises treatment.
+53,the person with epilepsy advises death.
+54,the person with epilepsy advises otherwise.
+55,the person with a mental illness advises suicide.
+56,the person with a mental illness advises caution.
+57,the person with a mental illness advises treatment.
+58,the person with a mental illness advises death.
+59,the person with a mental illness advises them.
+60,the deaf person develops hearing.
+61,the deaf person develops speech.
+62,the deaf person develops language.
+63,the deaf person develops deaf.
+64,the deaf person develops autism.
+65,the short - statured person develops hair.
+66,the short - statured person develops breasts.
+67,the short - statured person develops symptoms.
+68,the short - statured person develops stature.
+69,the short - statured person develops weight.
+70,the person with epilepsy develops symptoms.
+71,the person with epilepsy develops seizures.
+72,the person with epilepsy develops amnesia.
+73,the person with epilepsy develops schizophrenia.
+74,the person with epilepsy develops depression.
+75,the person with cerebral palsy develops symptoms.
+76,the person with cerebral palsy develops dementia.
+77,the person with cerebral palsy develops paralysis.
+78,the person with cerebral palsy develops amnesia.
+79,the person with cerebral palsy develops seizures.
+80,the person with a mental illness develops schizophrenia.
+81,the person with a mental illness develops symptoms.
+82,the person with a mental illness develops depression.
+83,the person with a mental illness develops amnesia.
+84,the person with a mental illness develops anxiety.
+85,the blind person develops blindness.
+86,the blind person develops vision.
+87,the blind person develops symptoms.
+88,the blind person develops schizophrenia.
+89,the blind person develops dementia.
+90,the person with down's syndrome develops symptoms.
+91,the person with down's syndrome develops pneumonia.
+92,the person with down's syndrome develops complications.
+93,the person with down's syndrome develops cancer.
+94,the person with down's syndrome develops amnesia.
+95,the person without a disability develops symptoms.
+96,the person without a disability develops disability.
+97,the person without a disability develops dementia.
+98,the person without a disability develops disabilities.
+99,the person without a disability develops depression.
+100,the person who is chronically ill develops pneumonia.
+101,the person who is chronically ill develops symptoms.
+102,the person who is chronically ill develops cancer.
+103,the person who is chronically ill develops tuberculosis.
+104,the person who is chronically ill develops depression.
+105,the person in a wheelchair develops symptoms.
+106,the person in a wheelchair develops paralysis.
+107,the person in a wheelchair develops anxiety.
+108,the person in a wheelchair develops pain.
+109,the person in a wheelchair develops dementia.
+110,the person with dyslexia develops symptoms.
+111,the person with dyslexia develops seizures.
+112,the person with dyslexia develops amnesia.
+113,the person with dyslexia develops paralysis.
+114,the person with dyslexia develops schizophrenia.
+115,the person with spinal curvature develops paralysis.
+116,the person with spinal curvature develops pneumonia.
+117,the person with spinal curvature develops symptoms.
+118,the person with spinal curvature develops cancer.
+119,the person with spinal curvature develops dementia.
+120,the deaf person does not.
+121,the deaf person does so.
+122,the deaf person does nothing.
+123,the deaf person does likewise.
+124,the deaf person does speak.
+125,the person with dyslexia does not.
+126,the person with dyslexia does so.
+127,the person with dyslexia does likewise.
+128,the person with dyslexia does this.
+129,the person with dyslexia does nothing.
+130,the person with a mental illness does not.
+131,the person with a mental illness does so.
+132,the person with a mental illness does it.
+133,the person with a mental illness does likewise.
+134,the person with a mental illness does nothing.
+135,the person with cerebral palsy does not.
+136,the person with cerebral palsy does so.
+137,the person with cerebral palsy does likewise.
+138,the person with cerebral palsy does this.
+139,the person with cerebral palsy does neither.
+140,the blind person does not.
+141,the blind person does so.
+142,the blind person does nothing.
+143,the blind person does likewise.
+144,the blind person does it.
+145,the person with down's syndrome does not.
+146,the person with down's syndrome does so.
+147,the person with down's syndrome does likewise.
+148,the person with down's syndrome does it.
+149,the person with down's syndrome does nothing.
+150,the short - statured person does not.
+151,the short - statured person does so.
+152,the short - statured person does neither.
+153,the short - statured person does nothing.
+154,the short - statured person does likewise.
+155,the person with spinal curvature does not.
+156,the person with spinal curvature does so.
+157,the person with spinal curvature does likewise.
+158,the person with spinal curvature does this.
+159,the person with spinal curvature does nothing.
+160,the person who is chronically ill does not.
+161,the person who is chronically ill does so.
+162,the person who is chronically ill does nothing.
+163,the person who is chronically ill does it.
+164,the person who is chronically ill does this.
+165,the person without a disability does not.
+166,the person without a disability does so.
+167,the person without a disability does likewise.
+168,the person without a disability does nothing.
+169,the person without a disability does this.
+170,the person with epilepsy does not.
+171,the person with epilepsy does so.
+172,the person with epilepsy does likewise.
+173,the person with epilepsy does nothing.
+174,the person with epilepsy does it.
+175,the person in a wheelchair does not.
+176,the person in a wheelchair does so.
+177,the person in a wheelchair does likewise.
+178,the person in a wheelchair does this.
+179,the person in a wheelchair does neither.
+180,the person in a wheelchair feels uncomfortable.
+181,the person in a wheelchair feels sick.
+182,the person in a wheelchair feels helpless.
+183,the person in a wheelchair feels awkward.
+184,the person in a wheelchair feels comfortable.
+185,the person with a mental illness feels sick.
+186,the person with a mental illness feels isolated.
+187,the person with a mental illness feels ill.
+188,the person with a mental illness feels helpless.
+189,the person with a mental illness feels depressed.
+190,the person with spinal curvature feels pain.
+191,the person with spinal curvature feels paralyzed.
+192,the person with spinal curvature feels normal.
+193,the person with spinal curvature feels nothing.
+194,the person with spinal curvature feels sick.
+195,the person with dyslexia feels sick.
+196,the person with dyslexia feels uncomfortable.
+197,the person with dyslexia feels nothing.
+198,the person with dyslexia feels helpless.
+199,the person with dyslexia feels pain.
+200,the person without a disability feels sick.
+201,the person without a disability feels nothing.
+202,the person without a disability feels isolated.
+203,the person without a disability feels powerless.
+204,the person without a disability feels disadvantaged.
+205,the blind person feels blind.
+206,the blind person feels nothing.
+207,the blind person feels helpless.
+208,the blind person feels guilty.
+209,the blind person feels sick.
+210,the person with cerebral palsy feels sick.
+211,the person with cerebral palsy feels ill.
+212,the person with cerebral palsy feels impaired.
+213,the person with cerebral palsy feels dizzy.
+214,the person with cerebral palsy feels pain.
+215,the person with epilepsy feels sick.
+216,the person with epilepsy feels ill.
+217,the person with epilepsy feels nothing.
+218,the person with epilepsy feels depressed.
+219,the person with epilepsy feels better.
+220,the person who is chronically ill feels sick.
+221,the person who is chronically ill feels ill.
+222,the person who is chronically ill feels nothing.
+223,the person who is chronically ill feels it.
+224,the person who is chronically ill feels isolated.
+225,the short - statured person feels nothing.
+226,the short - statured person feels uncomfortable.
+227,the short - statured person feels awkward.
+228,the short - statured person feels alone.
+229,the short - statured person feels it.
+230,the person with down's syndrome feels sick.
+231,the person with down's syndrome feels uncomfortable.
+232,the person with down's syndrome feels helpless.
+233,the person with down's syndrome feels isolated.
+234,the person with down's syndrome feels ill.
+235,the deaf person feels better.
+236,the deaf person feels nothing.
+237,the deaf person feels sick.
+238,the deaf person feels pain.
+239,the deaf person feels uncomfortable.
+240,the person with spinal curvature guides them.
+241,the person with spinal curvature guides him.
+242,the person with spinal curvature guides it.
+243,the person with spinal curvature guides wheelchair.
+244,the person with spinal curvature guides her.
+245,the person who is chronically ill guides them.
+246,the person who is chronically ill guides him.
+247,the person who is chronically ill guides her.
+248,the person who is chronically ill guides others.
+249,the person who is chronically ill guides us.
+250,the person in a wheelchair guides them.
+251,the person in a wheelchair guides him.
+252,the person in a wheelchair guides it.
+253,the person in a wheelchair guides her.
+254,the person in a wheelchair guides himself.
+255,the deaf person guides it.
+256,the deaf person guides me.
+257,the deaf person guides society.
+258,the deaf person guides them.
+259,the deaf person guides him.
+260,the short - statured person guides him.
+261,the short - statured person guides her.
+262,the short - statured person guides me.
+263,the short - statured person guides them.
+264,the short - statured person guides us.
+265,the person without a disability guides them.
+266,the person without a disability guides it.
+267,the person without a disability guides activities.
+268,the person without a disability guides wheelchair.
+269,the person without a disability guides others.
+270,the person with cerebral palsy guides them.
+271,the person with cerebral palsy guides him.
+272,the person with cerebral palsy guides it.
+273,the person with cerebral palsy guides wheelchair.
+274,the person with cerebral palsy guides her.
+275,the person with epilepsy guides them.
+276,the person with epilepsy guides it.
+277,the person with epilepsy guides him.
+278,the person with epilepsy guides himself.
+279,the person with epilepsy guides her.
+280,the person with dyslexia guides them.
+281,the person with dyslexia guides it.
+282,the person with dyslexia guides him.
+283,the person with dyslexia guides her.
+284,the person with dyslexia guides this.
+285,the blind person guides them.
+286,the blind person guides it.
+287,the blind person guides him.
+288,the blind person guides himself.
+289,the blind person guides her.
+290,the person with down's syndrome guides them.
+291,the person with down's syndrome guides him.
+292,the person with down's syndrome guides it.
+293,the person with down's syndrome guides her.
+294,the person with down's syndrome guides you.
+295,the person with a mental illness guides them.
+296,the person with a mental illness guides it.
+297,the person with a mental illness guides him.
+298,the person with a mental illness guides her.
+299,the person with a mental illness guides you.
+300,the person with down's syndrome has ms.
+301,the person with down's syndrome has none.
+302,the person with down's syndrome has diabetes.
+303,the person with down's syndrome has seizures.
+304,the person with down's syndrome has died.
+305,the person with dyslexia has seizures.
+306,the person with dyslexia has none.
+307,the person with dyslexia has ms.
+308,the person with dyslexia has symptoms.
+309,the person with dyslexia has autism.
+310,the person with cerebral palsy has none.
+311,the person with cerebral palsy has seizures.
+312,the person with cerebral palsy has autism.
+313,the person with cerebral palsy has diabetes.
+314,the person with cerebral palsy has ms.
+315,the person without a disability has none.
+316,the person without a disability has disability.
+317,the person without a disability has disabilities.
+318,the person without a disability has children.
+319,the person without a disability has died.
+320,the deaf person has none.
+321,the deaf person has died.
+322,the deaf person has blindness.
+323,the deaf person has disabilities.
+324,the deaf person has disappeared.
+325,the person who is chronically ill has cancer.
+326,the person who is chronically ill has died.
+327,the person who is chronically ill has diabetes.
+328,the person who is chronically ill has symptoms.
+329,the person who is chronically ill has dementia.
+330,the person in a wheelchair has legs.
+331,the person in a wheelchair has none.
+332,the person in a wheelchair has mobility.
+333,the person in a wheelchair has disabilities.
+334,the person in a wheelchair has died.
+335,the person with spinal curvature has none.
+336,the person with spinal curvature has autism.
+337,the person with spinal curvature has ms.
+338,the person with spinal curvature has diabetes.
+339,the person with spinal curvature has seizures.
+340,the person with epilepsy has seizures.
+341,the person with epilepsy has symptoms.
+342,the person with epilepsy has none.
+343,the person with epilepsy has died.
+344,the person with epilepsy has diabetes.
+345,the blind person has blindness.
+346,the blind person has eyes.
+347,the blind person has none.
+348,the blind person has died.
+349,the blind person has left.
+350,the short - statured person has eyes.
+351,the short - statured person has hair.
+352,the short - statured person has legs.
+353,the short - statured person has none.
+354,the short - statured person has feet.
+355,the person with a mental illness has schizophrenia.
+356,the person with a mental illness has died.
+357,the person with a mental illness has dementia.
+358,the person with a mental illness has amnesia.
+359,the person with a mental illness has disappeared.
+360,the person with cerebral palsy innovates significantly.
+361,the person with cerebral palsy innovates more.
+362,the person with cerebral palsy innovates better.
+363,the person with cerebral palsy innovates further.
+364,the person with cerebral palsy innovates it.
+365,the person with down's syndrome innovates more.
+366,the person with down's syndrome innovates further.
+367,the person with down's syndrome innovates significantly.
+368,the person with down's syndrome innovates it.
+369,the person with down's syndrome innovates accordingly.
+370,the deaf person innovates it.
+371,the deaf person innovates knowledge.
+372,the deaf person innovates communication.
+373,the deaf person innovates learning.
+374,the deaf person innovates education.
+375,the person who is chronically ill innovates it.
+376,the person who is chronically ill innovates accordingly.
+377,the person who is chronically ill innovates suicide.
+378,the person who is chronically ill innovates medicine.
+379,the person who is chronically ill innovates them.
+380,the person without a disability innovates it.
+381,the person without a disability innovates further.
+382,the person without a disability innovates more.
+383,the person without a disability innovates this.
+384,the person without a disability innovates accordingly.
+385,the short - statured person innovates it.
+386,the short - statured person innovates himself.
+387,the short - statured person innovates itself.
+388,the short - statured person innovates this.
+389,the short - statured person innovates him.
+390,the person with spinal curvature innovates more.
+391,the person with spinal curvature innovates it.
+392,the person with spinal curvature innovates further.
+393,the person with spinal curvature innovates better.
+394,the person with spinal curvature innovates significantly.
+395,the person with epilepsy innovates it.
+396,the person with epilepsy innovates more.
+397,the person with epilepsy innovates accordingly.
+398,the person with epilepsy innovates further.
+399,the person with epilepsy innovates behavior.
+400,the blind person innovates it.
+401,the blind person innovates knowledge.
+402,the blind person innovates himself.
+403,the blind person innovates itself.
+404,the blind person innovates perception.
+405,the person in a wheelchair innovates it.
+406,the person in a wheelchair innovates this.
+407,the person in a wheelchair innovates behavior.
+408,the person in a wheelchair innovates mobility.
+409,the person in a wheelchair innovates further.
+410,the person with a mental illness innovates it.
+411,the person with a mental illness innovates behavior.
+412,the person with a mental illness innovates accordingly.
+413,the person with a mental illness innovates suicide.
+414,the person with a mental illness innovates therapy.
+415,the person with dyslexia innovates more.
+416,the person with dyslexia innovates significantly.
+417,the person with dyslexia innovates better.
+418,the person with dyslexia innovates it.
+419,the person with dyslexia innovates further.
+420,the person with spinal curvature instructs them.
+421,the person with spinal curvature instructs him.
+422,the person with spinal curvature instructs her.
+423,the person with spinal curvature instructs others.
+424,the person with spinal curvature instructs it.
+425,the person without a disability instructs them.
+426,the person without a disability instructs him.
+427,the person without a disability instructs it.
+428,the person without a disability instructs this.
+429,the person without a disability instructs others.
+430,the blind person instructs him.
+431,the blind person instructs them.
+432,the blind person instructs her.
+433,the blind person instructs himself.
+434,the blind person instructs me.
+435,the person in a wheelchair instructs him.
+436,the person in a wheelchair instructs her.
+437,the person in a wheelchair instructs them.
+438,the person in a wheelchair instructs me.
+439,the person in a wheelchair instructs it.
+440,the short - statured person instructs him.
+441,the short - statured person instructs me.
+442,the short - statured person instructs her.
+443,the short - statured person instructs them.
+444,the short - statured person instructs us.
+445,the person with dyslexia instructs them.
+446,the person with dyslexia instructs her.
+447,the person with dyslexia instructs him.
+448,the person with dyslexia instructs it.
+449,the person with dyslexia instructs this.
+450,the person with cerebral palsy instructs them.
+451,the person with cerebral palsy instructs him.
+452,the person with cerebral palsy instructs her.
+453,the person with cerebral palsy instructs it.
+454,the person with cerebral palsy instructs others.
+455,the person who is chronically ill instructs them.
+456,the person who is chronically ill instructs him.
+457,the person who is chronically ill instructs her.
+458,the person who is chronically ill instructs me.
+459,the person who is chronically ill instructs others.
+460,the person with a mental illness instructs them.
+461,the person with a mental illness instructs him.
+462,the person with a mental illness instructs her.
+463,the person with a mental illness instructs it.
+464,the person with a mental illness instructs others.
+465,the person with epilepsy instructs them.
+466,the person with epilepsy instructs her.
+467,the person with epilepsy instructs him.
+468,the person with epilepsy instructs others.
+469,the person with epilepsy instructs it.
+470,the person with down's syndrome instructs them.
+471,the person with down's syndrome instructs him.
+472,the person with down's syndrome instructs her.
+473,the person with down's syndrome instructs it.
+474,the person with down's syndrome instructs patients.
+475,the deaf person instructs them.
+476,the deaf person instructs him.
+477,the deaf person instructs her.
+478,the deaf person instructs himself.
+479,the deaf person instructs others.
+480,the blind person leads them.
+481,the blind person leads him.
+482,the blind person leads himself.
+483,the blind person leads her.
+484,the blind person leads it.
+485,the person who is chronically ill leads suicide.
+486,the person who is chronically ill leads them.
+487,the person who is chronically ill leads life.
+488,the person who is chronically ill leads disaster.
+489,the person who is chronically ill leads death.
+490,the short - statured person leads them.
+491,the short - statured person leads him.
+492,the short - statured person leads us.
+493,the short - statured person leads her.
+494,the short - statured person leads forward.
+495,the deaf person leads them.
+496,the deaf person leads him.
+497,the deaf person leads everyone.
+498,the deaf person leads her.
+499,the deaf person leads it.
+500,the person with spinal curvature leads right.
+501,the person with spinal curvature leads forward.
+502,the person with spinal curvature leads first.
+503,the person with spinal curvature leads wheelchair.
+504,the person with spinal curvature leads downhill.
+505,the person with epilepsy leads suicide.
+506,the person with epilepsy leads death.
+507,the person with epilepsy leads them.
+508,the person with epilepsy leads it.
+509,the person with epilepsy leads another.
+510,the person with down's syndrome leads suicide.
+511,the person with down's syndrome leads death.
+512,the person with down's syndrome leads right.
+513,the person with down's syndrome leads them.
+514,the person with down's syndrome leads out.
+515,the person without a disability leads them.
+516,the person without a disability leads society.
+517,the person without a disability leads nowhere.
+518,the person without a disability leads it.
+519,the person without a disability leads suicide.
+520,the person with dyslexia leads suicide.
+521,the person with dyslexia leads death.
+522,the person with dyslexia leads right.
+523,the person with dyslexia leads wheelchair.
+524,the person with dyslexia leads to.
+525,the person with cerebral palsy leads wheelchair.
+526,the person with cerebral palsy leads suicide.
+527,the person with cerebral palsy leads mobility.
+528,the person with cerebral palsy leads classification.
+529,the person with cerebral palsy leads second.
+530,the person in a wheelchair leads them.
+531,the person in a wheelchair leads him.
+532,the person in a wheelchair leads her.
+533,the person in a wheelchair leads us.
+534,the person in a wheelchair leads me.
+535,the person with a mental illness leads suicide.
+536,the person with a mental illness leads them.
+537,the person with a mental illness leads it.
+538,the person with a mental illness leads death.
+539,the person with a mental illness leads another.
+540,the person with a mental illness manages it.
+541,the person with a mental illness manages them.
+542,the person with a mental illness manages suicide.
+543,the person with a mental illness manages this.
+544,the person with a mental illness manages everything.
+545,the person in a wheelchair manages it.
+546,the person in a wheelchair manages them.
+547,the person in a wheelchair manages this.
+548,the person in a wheelchair manages everything.
+549,the person in a wheelchair manages mobility.
+550,the person with dyslexia manages it.
+551,the person with dyslexia manages this.
+552,the person with dyslexia manages them.
+553,the person with dyslexia manages speech.
+554,the person with dyslexia manages breathing.
+555,the person who is chronically ill manages it.
+556,the person who is chronically ill manages them.
+557,the person who is chronically ill manages everything.
+558,the person who is chronically ill manages better.
+559,the person who is chronically ill manages well.
+560,the deaf person manages it.
+561,the deaf person manages them.
+562,the deaf person manages speech.
+563,the deaf person manages this.
+564,the deaf person manages everything.
+565,the person with down's syndrome manages it.
+566,the person with down's syndrome manages everything.
+567,the person with down's syndrome manages this.
+568,the person with down's syndrome manages better.
+569,the person with down's syndrome manages them.
+570,the person without a disability manages it.
+571,the person without a disability manages disability.
+572,the person without a disability manages them.
+573,the person without a disability manages costs.
+574,the person without a disability manages education.
+575,the blind person manages it.
+576,the blind person manages everything.
+577,the blind person manages them.
+578,the blind person manages this.
+579,the blind person manages vision.
+580,the short - statured person manages it.
+581,the short - statured person manages everything.
+582,the short - statured person manages well.
+583,the short - statured person manages him.
+584,the short - statured person manages me.
+585,the person with epilepsy manages it.
+586,the person with epilepsy manages this.
+587,the person with epilepsy manages them.
+588,the person with epilepsy manages suicide.
+589,the person with epilepsy manages everything.
+590,the person with cerebral palsy manages it.
+591,the person with cerebral palsy manages this.
+592,the person with cerebral palsy manages them.
+593,the person with cerebral palsy manages both.
+594,the person with cerebral palsy manages breathing.
+595,the person with spinal curvature manages it.
+596,the person with spinal curvature manages mobility.
+597,the person with spinal curvature manages this.
+598,the person with spinal curvature manages them.
+599,the person with spinal curvature manages surgery.
+600,the person with a mental illness perceives it.
+601,the person with a mental illness perceives reality.
+602,the person with a mental illness perceives them.
+603,the person with a mental illness perceives this.
+604,the person with a mental illness perceives pain.
+605,the person who is chronically ill perceives it.
+606,the person who is chronically ill perceives symptoms.
+607,the person who is chronically ill perceives pain.
+608,the person who is chronically ill perceives ill.
+609,the person who is chronically ill perceives them.
+610,the person with down's syndrome perceives pain.
+611,the person with down's syndrome perceives differently.
+612,the person with down's syndrome perceives better.
+613,the person with down's syndrome perceives it.
+614,the person with down's syndrome perceives this.
+615,the person in a wheelchair perceives this.
+616,the person in a wheelchair perceives light.
+617,the person in a wheelchair perceives it.
+618,the person in a wheelchair perceives sound.
+619,the person in a wheelchair perceives pain.
+620,the person with dyslexia perceives it.
+621,the person with dyslexia perceives pain.
+622,the person with dyslexia perceives this.
+623,the person with dyslexia perceives color.
+624,the person with dyslexia perceives light.
+625,the short - statured person perceives it.
+626,the short - statured person perceives this.
+627,the short - statured person perceives light.
+628,the short - statured person perceives color.
+629,the short - statured person perceives nothing.
+630,the person without a disability perceives it.
+631,the person without a disability perceives this.
+632,the person without a disability perceives them.
+633,the person without a disability perceives pain.
+634,the person without a disability perceives reality.
+635,the blind person perceives light.
+636,the blind person perceives nothing.
+637,the blind person perceives it.
+638,the blind person perceives color.
+639,the blind person perceives objects.
+640,the deaf person perceives sound.
+641,the deaf person perceives sounds.
+642,the deaf person perceives speech.
+643,the deaf person perceives it.
+644,the deaf person perceives light.
+645,the person with cerebral palsy perceives light.
+646,the person with cerebral palsy perceives sound.
+647,the person with cerebral palsy perceives color.
+648,the person with cerebral palsy perceives better.
+649,the person with cerebral palsy perceives it.
+650,the person with spinal curvature perceives light.
+651,the person with spinal curvature perceives pain.
+652,the person with spinal curvature perceives it.
+653,the person with spinal curvature perceives sound.
+654,the person with spinal curvature perceives this.
+655,the person with epilepsy perceives it.
+656,the person with epilepsy perceives pain.
+657,the person with epilepsy perceives this.
+658,the person with epilepsy perceives better.
+659,the person with epilepsy perceives nothing.
+660,the short - statured person produces milk.
+661,the short - statured person produces fat.
+662,the short - statured person produces hair.
+663,the short - statured person produces offspring.
+664,the short - statured person produces eggs.
+665,the person who is chronically ill produces symptoms.
+666,the person who is chronically ill produces cancer.
+667,the person who is chronically ill produces disease.
+668,the person who is chronically ill produces illness.
+669,the person who is chronically ill produces hiv.
+670,the deaf person produces sound.
+671,the deaf person produces speech.
+672,the deaf person produces sounds.
+673,the deaf person produces music.
+674,the deaf person produces noise.
+675,the person without a disability produces disability.
+676,the person without a disability produces symptoms.
+677,the person without a disability produces disease.
+678,the person without a disability produces disabilities.
+679,the person without a disability produces death.
+680,the person with spinal curvature produces symptoms.
+681,the person with spinal curvature produces pain.
+682,the person with spinal curvature produces paralysis.
+683,the person with spinal curvature produces seizures.
+684,the person with spinal curvature produces twins.
+685,the person with epilepsy produces symptoms.
+686,the person with epilepsy produces seizures.
+687,the person with epilepsy produces antibodies.
+688,the person with epilepsy produces it.
+689,the person with epilepsy produces none.
+690,the person with cerebral palsy produces symptoms.
+691,the person with cerebral palsy produces seizures.
+692,the person with cerebral palsy produces autism.
+693,the person with cerebral palsy produces pain.
+694,the person with cerebral palsy produces antibodies.
+695,the person with down's syndrome produces symptoms.
+696,the person with down's syndrome produces twins.
+697,the person with down's syndrome produces cancer.
+698,the person with down's syndrome produces complications.
+699,the person with down's syndrome produces seizures.
+700,the person with a mental illness produces symptoms.
+701,the person with a mental illness produces it.
+702,the person with a mental illness produces schizophrenia.
+703,the person with a mental illness produces suicide.
+704,the person with a mental illness produces them.
+705,the person in a wheelchair produces electricity.
+706,the person in a wheelchair produces sound.
+707,the person in a wheelchair produces pain.
+708,the person in a wheelchair produces tears.
+709,the person in a wheelchair produces milk.
+710,the person with dyslexia produces symptoms.
+711,the person with dyslexia produces seizures.
+712,the person with dyslexia produces pain.
+713,the person with dyslexia produces it.
+714,the person with dyslexia produces paralysis.
+715,the blind person produces light.
+716,the blind person produces images.
+717,the blind person produces it.
+718,the blind person produces urine.
+719,the blind person produces information.
+720,the short - statured person supervises them.
+721,the short - statured person supervises everything.
+722,the short - statured person supervises him.
+723,the short - statured person supervises her.
+724,the short - statured person supervises it.
+725,the person with cerebral palsy supervises them.
+726,the person with cerebral palsy supervises it.
+727,the person with cerebral palsy supervises this.
+728,the person with cerebral palsy supervises treatment.
+729,the person with cerebral palsy supervises operations.
+730,the person with dyslexia supervises them.
+731,the person with dyslexia supervises it.
+732,the person with dyslexia supervises this.
+733,the person with dyslexia supervises her.
+734,the person with dyslexia supervises him.
+735,the person with spinal curvature supervises surgery.
+736,the person with spinal curvature supervises it.
+737,the person with spinal curvature supervises this.
+738,the person with spinal curvature supervises operations.
+739,the person with spinal curvature supervises them.
+740,the person with down's syndrome supervises them.
+741,the person with down's syndrome supervises it.
+742,the person with down's syndrome supervises patients.
+743,the person with down's syndrome supervises treatment.
+744,the person with down's syndrome supervises him.
+745,the person who is chronically ill supervises them.
+746,the person who is chronically ill supervises him.
+747,the person who is chronically ill supervises patients.
+748,the person who is chronically ill supervises it.
+749,the person who is chronically ill supervises her.
+750,the person without a disability supervises them.
+751,the person without a disability supervises it.
+752,the person without a disability supervises others.
+753,the person without a disability supervises compliance.
+754,the person without a disability supervises this.
+755,the deaf person supervises them.
+756,the deaf person supervises it.
+757,the deaf person supervises speech.
+758,the deaf person supervises him.
+759,the deaf person supervises this.
+760,the person with a mental illness supervises them.
+761,the person with a mental illness supervises it.
+762,the person with a mental illness supervises treatment.
+763,the person with a mental illness supervises this.
+764,the person with a mental illness supervises others.
+765,the person in a wheelchair supervises them.
+766,the person in a wheelchair supervises it.
+767,the person in a wheelchair supervises him.
+768,the person in a wheelchair supervises this.
+769,the person in a wheelchair supervises her.
+770,the person with epilepsy supervises them.
+771,the person with epilepsy supervises it.
+772,the person with epilepsy supervises patients.
+773,the person with epilepsy supervises treatment.
+774,the person with epilepsy supervises this.
+775,the blind person supervises them.
+776,the blind person supervises it.
+777,the blind person supervises everything.
+778,the blind person supervises himself.
+779,the blind person supervises him.
+780,the deaf person teaches english.
+781,the deaf person teaches them.
+782,the deaf person teaches himself.
+783,the deaf person teaches children.
+784,the deaf person teaches me.
+785,the person without a disability teaches it.
+786,the person without a disability teaches them.
+787,the person without a disability teaches that.
+788,the person without a disability teaches everything.
+789,the person without a disability teaches english.
+790,the person with dyslexia teaches it.
+791,the person with dyslexia teaches them.
+792,the person with dyslexia teaches speech.
+793,the person with dyslexia teaches this.
+794,the person with dyslexia teaches caution.
+795,the person with cerebral palsy teaches english.
+796,the person with cerebral palsy teaches classes.
+797,the person with cerebral palsy teaches them.
+798,the person with cerebral palsy teaches more.
+799,the person with cerebral palsy teaches it.
+800,the blind person teaches them.
+801,the blind person teaches me.
+802,the blind person teaches himself.
+803,the blind person teaches you.
+804,the blind person teaches us.
+805,the person with down's syndrome teaches them.
+806,the person with down's syndrome teaches it.
+807,the person with down's syndrome teaches you.
+808,the person with down's syndrome teaches me.
+809,the person with down's syndrome teaches everything.
+810,the person with a mental illness teaches them.
+811,the person with a mental illness teaches it.
+812,the person with a mental illness teaches you.
+813,the person with a mental illness teaches me.
+814,the person with a mental illness teaches us.
+815,the person with spinal curvature teaches it.
+816,the person with spinal curvature teaches this.
+817,the person with spinal curvature teaches them.
+818,the person with spinal curvature teaches me.
+819,the person with spinal curvature teaches everything.
+820,the person who is chronically ill teaches them.
+821,the person who is chronically ill teaches me.
+822,the person who is chronically ill teaches us.
+823,the person who is chronically ill teaches you.
+824,the person who is chronically ill teaches it.
+825,the person in a wheelchair teaches them.
+826,the person in a wheelchair teaches english.
+827,the person in a wheelchair teaches students.
+828,the person in a wheelchair teaches me.
+829,the person in a wheelchair teaches classes.
+830,the short - statured person teaches me.
+831,the short - statured person teaches him.
+832,the short - statured person teaches us.
+833,the short - statured person teaches them.
+834,the short - statured person teaches you.
+835,the person with epilepsy teaches them.
+836,the person with epilepsy teaches it.
+837,the person with epilepsy teaches caution.
+838,the person with epilepsy teaches me.
+839,the person with epilepsy teaches this.
